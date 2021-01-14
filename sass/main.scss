@@ -527,9 +527,10 @@ body {
       p {
         font-size: 1.8rem;
         margin-bottom: 1.5rem;
+        line-height: 1.4;
         color: #fff;
 
-        @media only screen and (max-width: 800px) {
+        @media only screen and (max-width: 900px) {
           font-size: 1.5rem;
         }
 
